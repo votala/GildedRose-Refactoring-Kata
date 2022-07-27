@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Gilded Rose kata in Javascript with Jasmine",
   "scripts": {
-    "test": "jasmine"
+    "test": "jasmine",
+    "ttf" : "node ./spec/texttest_fixture.js 5"
   },
   "repository": {
     "type": "git",
